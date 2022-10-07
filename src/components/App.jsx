@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Feedback from './Feedback';
+import Feedback from './Feedback/Feedback';
 import { Title } from './Title';
 import Statistics from './Statistics';
 
